@@ -1,3 +1,7 @@
 hello how are you
 
+<<<<<<< HEAD
 did you see any difference!!!
+=======
+updating this file from main git hub 
+>>>>>>> d1febb015176ccd1c94fb4b81852fd86fcc60e19
