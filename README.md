@@ -1,2 +1,2 @@
 # special-waffle
-## Basics
+### Basics of Git Hub and Gits features
